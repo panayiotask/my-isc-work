@@ -1,0 +1,1 @@
+tail: error reading ‘hi’: Is a directory
